@@ -57,5 +57,5 @@
 | Application | Description | GitHub |
 | --- | --- | --- |
 | [Chrome](https://www.google.com/chrome/browser/desktop/) | Get a fast, free web browser | |
-| [Firefox](https://www.mozilla.org/en-US/firefox/desktop/) | Committed to you, your privacy and an open Web | |
-| [Opera](http://www.opera.com/) | Fast, secure, easy-to-use browser | |
+| [Firefox](https://firefox.com/) | Committed to you, your privacy and an open Web | |
+| [Opera](https://www.opera.com/) | Fast, secure, easy-to-use browser | |
