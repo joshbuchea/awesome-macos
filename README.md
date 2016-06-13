@@ -37,7 +37,7 @@
 | Application | Description | GitHub | App Store |
 | --- | --- | --- | --- |
 | [Audacity](http://www.audacityteam.org/) | Audacity is free, open source, cross-platform software for recording and editing sounds | [GitHub](https://github.com/audacity/audacity) | |
-| [VLC media player](http://www.videolan.org/vlc/) | Audacity is free, open source, cross-platform software for recording and editing sounds | [GitHub](https://github.com/videolan/vlc) | |
+| [VLC media player](http://www.videolan.org/vlc/) | VLC is a free and open source cross-platform multimedia player that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. | [GitHub](https://github.com/videolan/vlc) | |
 
 ## Terminal
 
