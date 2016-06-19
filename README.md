@@ -29,6 +29,7 @@
 | --- | --- | --- |
 | [Atom](https://atom.io/) | A hackable text editor for the 21st Century | [GitHub](https://github.com/atom/atom) |
 | [Brackets](http://brackets.io/) | A modern, open source text editor that understands web design | [GitHub](https://github.com/adobe/brackets) |
+| [IntelliJ IDEA](https://www.jetbrains.com/idea/) | Capable and Ergonomic Java IDE | |
 | [Sublime Text 3](https://www.sublimetext.com/3) | Sublime Text is a sophisticated text editor for code, markup and prose | |
 | [Visual Studio Code](https://code.visualstudio.com/) | Code editing. Redefined. | [GitHub](https://github.com/Microsoft/vscode) |
 
