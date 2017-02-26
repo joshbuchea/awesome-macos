@@ -1,6 +1,6 @@
-# Awesome Mac OS
+# Awesome macOS
 
-> A curated list of awesome applications, softwares, tools and shiny things for Mac OS.
+> A curated list of awesome applications, softwares, tools and shiny things for macOS.
 
 ## Chat
 
