@@ -51,6 +51,7 @@
 | Application | Description | GitHub | App Store |
 | --- | --- | --- | --- |
 | [Caffeine](http://lightheadsw.com/caffeine/) | Don't let your Mac fall asleep | | [App Store](https://itunes.apple.com/app/id411246225?mt=12) |
+| [Peeku](https://peeku.app/) | Private Mac presence coach for eye-rest nudges, walk reminders, Desk Health, and local presence signals | | [App Store](https://apps.apple.com/app/peeku-presence-coach/id6773651327?mt=12) |
 | [The Unarchiver](http://unarchiver.c3.cx/unarchiver) | The Unarchiver is a much more capable replacement for "Archive Utility.app | | [App Store](https://itunes.apple.com/app/id425424353?mt=12) |
 
 ## Web Browsers
