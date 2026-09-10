@@ -51,6 +51,7 @@
 | Application | Description | GitHub | App Store |
 | --- | --- | --- | --- |
 | [Caffeine](http://lightheadsw.com/caffeine/) | Don't let your Mac fall asleep | | [App Store](https://itunes.apple.com/app/id411246225?mt=12) |
+| [Orkas](https://orkas.ai/?source=gh_joshb) | Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. | [GitHub](https://github.com/Orkas-AI/Orkas) | |
 | [The Unarchiver](http://unarchiver.c3.cx/unarchiver) | The Unarchiver is a much more capable replacement for "Archive Utility.app | | [App Store](https://itunes.apple.com/app/id425424353?mt=12) |
 
 ## Web Browsers
