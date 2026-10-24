@@ -51,6 +51,7 @@
 | Application | Description | GitHub | App Store |
 | --- | --- | --- | --- |
 | [Caffeine](http://lightheadsw.com/caffeine/) | Don't let your Mac fall asleep | | [App Store](https://itunes.apple.com/app/id411246225?mt=12) |
+| [MacClean](https://thulem.com/) | Free native Mac cleaner: WeChat/QQ/WeCom media, Storage Map, Xcode/AI caches; review-before-delete | | |
 | [The Unarchiver](http://unarchiver.c3.cx/unarchiver) | The Unarchiver is a much more capable replacement for "Archive Utility.app | | [App Store](https://itunes.apple.com/app/id425424353?mt=12) |
 
 ## Web Browsers
