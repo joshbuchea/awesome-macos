@@ -47,6 +47,7 @@
 | [iTerm2](https://iterm2.com/) | iTerm2 is a terminal emulator for Mac OS X that does amazing things | [GitHub](https://github.com/gnachman/iTerm2) |
 
 ## Utilities
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Shows what is playing on your Mac in the corner beside the Dock.
 
 | Application | Description | GitHub | App Store |
 | --- | --- | --- | --- |
